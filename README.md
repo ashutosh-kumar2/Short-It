@@ -5,10 +5,12 @@ This is an application designed to shorten URLs, similar to TinyUrl/Bitly, creat
 Url Shortener is a service that converts long URLs into short aliases to save space when sharing URLs in messages, twitter, presentations etc. When a user opens short URL, he/she will be automatically redirected to original (long) URL.
 <br />
 <br />
-### How to use
+## How to use
 <br />
 <br />
+```sh
 $ git clone https://github.com/ashutosh-kumar2/Short-It.git
+```
 
   - Open the project in an editor like IntelliJ IDEA.
   - Build Spring project.
