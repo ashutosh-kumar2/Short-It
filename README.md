@@ -1,7 +1,7 @@
 ## Short-It
 <br />
 <br />
-This is an application designed to shorten URLs, similar to Tinuurl/Bitly, created using Java and SpringBoot. 
+This is an application designed to shorten URLs, similar to TinyUrl/Bitly, created using Java and SpringBoot. 
 Url Shortener is a service that converts long URLs into short aliases to save space when sharing URLs in messages, twitter, presentations etc. When a user opens short URL, he/she will be automatically redirected to original (long) URL.
 <br />
 <br />
